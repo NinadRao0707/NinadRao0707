@@ -1,8 +1,13 @@
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Information Technology 𝚊𝚝 𝚝𝚑𝚎 Vivekanand Education Society's Institute Of Technology 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸023
+<style>
+	@import url('https://fonts.googleapis.com/css2?family=Hahmlet:wght@100&display=swap');
+	font-family: 'Hahmlet', serif;
+</style>
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+## :book: About Me
+- 🖥 Full Stack Developer
+- 🎓 Studying Information Technology 𝚊𝚝 𝚝𝚑𝚎 Vivekanand Education Society's Institute Of Technology
+
+## ⬆ Wat 
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚊𝚗 E-Commerce System 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 as a Mini-Project
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
 	- 
