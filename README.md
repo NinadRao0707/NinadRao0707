@@ -1,8 +1,3 @@
-<style>
-	@import url('https://fonts.googleapis.com/css2?family=Hahmlet:wght@100&display=swap');
-	font-family: 'Hahmlet', serif;
-</style>
-
 ## :book: About Me
 - 🖥 Full Stack Developer
 - 🎓 Studying Information Technology 𝚊𝚝 𝚝𝚑𝚎 Vivekanand Education Society's Institute Of Technology
