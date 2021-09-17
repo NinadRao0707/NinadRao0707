@@ -2,15 +2,15 @@
 - 🖥 Full Stack Developer
 - 🎓 Studying Information Technology 𝚊𝚝 𝚝𝚑𝚎 Vivekanand Education Society's Institute Of Technology
 
-## ⬆ Wat 
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚊𝚗 E-Commerce System 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 as a Mini-Project
-- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
+## ⬆ What I'm up to 
+- 🔨 I'm currently building an E-Commerce System project
+- 🎯 In the near future, I plan too ...
 	- 
-- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
+- 🤞 One day, I hope too ...
 	- 
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+## 📫 How to reach me
+You can reach me at the email in my github profile. Follow my socials !
 
 [<img src="https://raw.githubusercontent.com/NinadRao0707/NinadRao0707/master/socials/linkedin.png" height="40em" align="center" alt="Follow Ninad Rao on LinkedIn" title="Follow Ninad Rao on LinkedIn"/>](https://www.linkedin.com/in/ninad-rao-04765b28/)
 [<img src="https://raw.githubusercontent.com/NinadRao0707/NinadRao0707/master/socials/twitter.svg" height="40em" align="center" alt="Follow Ninad Rao on Twitter" title="Follow Ninad Rao on Twitter"/>](https://twitter.com/nindiya_0707)
