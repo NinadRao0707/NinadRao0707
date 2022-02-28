@@ -1,23 +1,66 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0FF710&size=26&center=true&vCenter=true&lines=%F0%9F%91%8B+Hi+there!+I'm+Ninad+Rao;%F0%9F%96%A5+Full+Stack+Web+Developer;%F0%9F%98%8A+Nice+to+meet+you+!">
+## Hello there !! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class WebDeveloper:
+
+    def __init__(self):
+        self.name = "Ninad Rao"
+        self.role = "Web Developer"
+        self.language_spoken = ["en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = WebDeveloper()
+me.say_hi()
+```
+
+## 🔧 Technologies & Tools
+
+<p float="center">
+  <img height="80" src="https://user-images.githubusercontent.com/67018142/156035045-3a0ab8f2-6353-4e6f-8a96-44dbce1c78e9.png"/>
+  <img height="80" src="https://user-images.githubusercontent.com/67018142/156035466-6452769f-a9e5-40d0-98a0-d0e1bb75badc.png"/>
+  <img height="80" src="https://user-images.githubusercontent.com/67018142/156035507-9e799219-66a9-47cc-ba9b-848c447a3bec.png"/>
+  <img height="80" src="https://user-images.githubusercontent.com/67018142/156035568-4ced23f2-f2e6-4e12-84a0-6ea3d2e8f121.png"/>
+  <img height="80" src="https://user-images.githubusercontent.com/67018142/156035636-371b82f3-bd8a-4508-a1fa-27082ca5eaea.png"/>
+  <img height="80" src="https://user-images.githubusercontent.com/67018142/156035790-ee0ff34e-3ba9-444a-a6dc-cd7777c7f2ca.png"/>
+  <img height="80" src="https://user-images.githubusercontent.com/67018142/156035830-2190af89-a613-4694-a9b8-d1eb342a80f0.png"/>
+  <img height="80" src="https://user-images.githubusercontent.com/67018142/156035874-247abc54-646e-4b91-aa92-78c4384aca62.png"/>
+  <img height="80" src="https://user-images.githubusercontent.com/67018142/156036013-4b18a1f9-37bb-4628-8030-eccacf95e12f.png"/>
+  <img height="80" src="https://user-images.githubusercontent.com/67018142/156036478-1aa05d96-c06c-40b0-b948-be900123a82e.png"/>
+  <img height="80" src="https://user-images.githubusercontent.com/67018142/156036444-39831085-cc88-4dbe-9ea2-70b5b5c7ccc8.png"/>
+  <img height="80" src="https://user-images.githubusercontent.com/67018142/156036543-3f880403-69ec-47ab-b7f4-1524f115ad89.png"/>
 </p>
+  
+## 📈 GitHub Stats
 
-# 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
+<a href="https://github.com/NinadRao0707/NinadRao0707">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinadRao0707&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
-𝙸'𝚖 𝙽𝚒𝚗𝚊𝚍 𝚁𝚊𝚘, 𝚊 𝚓𝚞𝚗𝚒𝚘𝚛 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚊𝚝 𝚅𝙴𝚂𝙸𝚃, 𝙲𝚑𝚎𝚖𝚋𝚞𝚛. 𝚂𝚎𝚎𝚔𝚒𝚗𝚐 𝚊 𝚛𝚘𝚕𝚎 𝚝𝚘 𝚎𝚗𝚑𝚊𝚗𝚌𝚎 𝚊𝚗𝚍 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚖𝚢 𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎. 𝙴𝚊𝚐𝚎𝚛 𝚝𝚘 𝚓𝚘𝚒𝚗 𝚊𝚗 𝚘𝚛𝚐𝚊𝚗𝚒𝚣𝚊𝚝𝚒𝚘𝚗 𝚠𝚑𝚎𝚛𝚎 𝙸 𝚌𝚊𝚗 𝚞𝚝𝚒𝚕𝚒𝚣𝚎 𝚖𝚢 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚊𝚗𝚍 𝚊𝚙𝚙𝚕𝚢 𝚖𝚢 𝚕𝚎𝚊𝚍𝚎𝚛𝚜𝚑𝚒𝚙 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚊𝚋𝚒𝚕𝚒𝚝𝚒𝚎𝚜 𝚒𝚗 𝚘𝚛𝚍𝚎𝚛 𝚝𝚘 𝚊𝚌𝚑𝚒𝚎𝚟𝚎 𝚐𝚘𝚊𝚕𝚜.
+<a href="https://github.com/NinadRao0707/NinadRao0707">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NinadRao0707&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
-<hr>
+## 👨‍💻 Project Highlights
 
-### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚊𝚝 𝚝𝚑𝚎 𝚅𝚒𝚟𝚎𝚔𝚊𝚗𝚊𝚗𝚍 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗 𝚂𝚘𝚌𝚒𝚎𝚝𝚢'𝚜 𝙸𝚗𝚜𝚝𝚒𝚝𝚞𝚝𝚎 𝙾𝚏 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢
+<a href="https://github.com/NinadRao0707/final-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NinadRao0707&repo=final-portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-<hr>
+<a href="https://github.com/NinadRao0707/Online-Examination-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NinadRao0707&repo=Online-Examination-System&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
 
-### 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜 !
+<a href="https://github.com/NinadRao0707/instagram_clone_flutter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NinadRao0707&repo=instagram_clone_flutter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Ninad Rao on LinkedIn" title="Follow Ninad Rao on LinkedIn"/>](https://www.linkedin.com/in/ninad-rao-04765b28/)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Ninad Rao on Twitter" title="Follow Ninad Rao on Twitter"/>](https://twitter.com/nindiya_0707)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Ninad Rao on Instagram" title="Follow Ninad Rao on Instagram"/>](https://www.instagram.com/ninadrao_0707/)
+<a href="https://github.com/NinadRao0707/Disguised-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NinadRao0707&repo=Disguised-Bot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
