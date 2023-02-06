@@ -77,16 +77,7 @@ me.say_hi()
 
 ## ⚡ Recent GitHub Activity
 
-<a href="https://github.com/NinadRao0707">
-    <img alt="NinadRao0707's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NinadRao0707&custom_title=NinadRao0707's%20Contribution%20Graph&theme=react-dark" />
-</a>
-
-<div align="center">
-    <a href="https://NinadRao0707.github.io/NinadRao0707/">
-        <img src="https://github.com/NinadRao0707/NinadRao0707/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-    </a>
-</div>
-<br>
+![Ninad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NinadRao0707&bg_color=050f2c&color=00aeff&line=00aeff&point=033666&area=true&hide_border=true)
 
 ## 🏆 Git Profile Trophies
 
