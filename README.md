@@ -90,7 +90,7 @@ me.say_hi()
 
 ## 🤝 Let's Connect
 
-<a href="https://www.linkedin.com/in/ninadrao0707/">
+<a href="https://www.linkedin.com/in/ninadsrao/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:ninadsrao@gmail.com">
